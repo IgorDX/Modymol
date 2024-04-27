@@ -1,0 +1,44 @@
+[
+    {
+        "img": "01",
+        "title": "tailored stretch",
+        "desc" : "turn it up pants",
+        "price" : "180",
+        "colors": ["black", "blue", "green"]
+    },
+    {
+        "img": "02",
+        "title": "tailored stretch",
+        "desc" : "turn it up pants",
+        "price" : "180",
+        "colors": ["black", "blue", "green"]
+    },
+    {
+        "img": "03",
+        "title": "tailored stretch",
+        "desc" : "turn it up pants",
+        "price" : "180",
+        "colors": ["black", "blue", "green"]
+    },
+    {
+        "img": "04",
+        "title": "tailored stretch",
+        "desc" : "turn it up pants",
+        "price" : "180",
+        "colors": ["black", "blue", "green"]
+    },
+    {
+        "img": "05",
+        "title": "tailored stretch",
+        "desc" : "turn it up pants",
+        "price" : "180",
+        "colors": ["black", "blue", "green"]
+    },
+    {
+        "img": "06",
+        "title": "tailored stretch",
+        "desc" : "turn it up pants",
+        "price" : "180",
+        "colors": ["black", "blue", "green"]
+    }
+]
