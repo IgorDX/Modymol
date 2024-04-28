@@ -1,5 +1,5 @@
 import Swiper from 'swiper/bundle';
-
+import AOS from 'aos';
 // import styles bundle
 import 'swiper/css/bundle';
 const swiper = new Swiper('.swiper', {
@@ -30,3 +30,4 @@ import accordion from './modules/accordion.js';
 mobileNav();
 // Accordion
 accordion();
+AOS.init();
